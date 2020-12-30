@@ -9,5 +9,6 @@ public class Test {
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyyMMddHHmmss");
         LocalDateTime ldt = LocalDateTime.parse(datetime, dtf);
         System.out.println(ldt.toString().replace("T", " "));
+
     }
 }
