@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 30 16:53:07 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1607433714589
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-compiler-plugin\:pom\:3.1 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Connection reset
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1607434668015
+http\://10.135.100.243\:8081/nexus/content/groups/public/.lastUpdated=1609318387565
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-compiler-plugin\:pom\:3.1 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
