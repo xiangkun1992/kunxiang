@@ -1,4 +1,4 @@
 # kunxiang
 person
 
-仅个人学习用
+仅记录个人学习
