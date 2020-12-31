@@ -8,9 +8,9 @@ public class DateTest {
     private final DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyyMMddHHmmss");
 
     /**
-     * yyyyMMddHHmmss to localdatetime
+     * yyyyMMddHHmmss to LocalDateTime
      * @param dateString yyyyMMddHHmmss
-     * @return localdatetime
+     * @return LocalDateTime
      */
     public LocalDateTime coverStringDateToLocalDateTime(String dateString) {
         return LocalDateTime.parse(dateString, dtf);
